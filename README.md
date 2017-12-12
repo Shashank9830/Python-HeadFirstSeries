@@ -73,14 +73,13 @@ sudo python setup.py install
 
 ### Test the module
 
-To test the module
-
 Launch python shell
 ```
 python
 ```
 
 Try importing the newly installed module
+
 For example :- pylist_nester
 
 ```
@@ -92,11 +91,12 @@ If you see the shell moves to next line without error then you have successfully
 ## Namespaces
 
 While using a function from the module make sure to include the namespace, otherwise you'll get a *NameError*
+
 For example :- *print_lol()* function in *pylist_nester* module
 
 Incorrect way
 ```
-print_lol()	#Direct use
+print_lol()					#Direct use
 ```
 
 Correct way
