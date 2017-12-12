@@ -21,20 +21,24 @@ List of my Python modules
 
 * **pylist_nester** : A simple module to print nested lists with indentations.
 	
-	Available Versions : [Latest]
+	Available Versions : 
+
+	[Latest]
 						 
-						 **v1.1.0 - pylist_nester**
+	**v1.1.0 - pylist_nester**
 						 
-						 Update log for v1.1.0
-						 	- Renamed to **pylist_nester**
-						 	- Fixed import errors due to '-' in the module name
-							- Added code to indent lists present at a deeper level (makes output look more appealing)
+		 Update log for v1.1.0
+	 		- Renamed to **pylist_nester**
+			- Fixed import errors due to '-' in the module name
+			- Added code to indent lists present at a deeper level (makes output look more appealing)
 
-						 [Older Versions]
+	[Older Versions]
 
-						 **1.0.0 - hf-nester**
+	**1.0.0 - hf-nester**
 
-						 A simple printer of nested lists
+	A simple printer of nested lists
+
+## Downloading and Installation
 
 Install using **pip** (Python Installer Package)
 
