@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c60523ad-ad60-4d7a-8088-8521826330f3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>nester.py</StartupFile>
+    <StartupFile>hf-nester.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="nester.py" />
+    <Compile Include="hf-nester.py" />
     <Compile Include="setup.py">
       <SubType>Code</SubType>
     </Compile>
