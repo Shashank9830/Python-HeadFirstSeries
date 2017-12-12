@@ -28,7 +28,7 @@ List of my Python modules
 	**v1.1.0 - pylist_nester**
 						 
 		 Update log for v1.1.0
-	 		- Renamed to **pylist_nester**
+			- Renamed to **pylist_nester**
 			- Fixed import errors due to '-' in the module name
 			- Added code to indent lists present at a deeper level (makes output look more appealing)
 
@@ -96,7 +96,7 @@ For example :- *print_lol()* function in *pylist_nester* module
 
 Incorrect way
 ```
-print_lol()					#Direct use
+print_lol()	#Direct use
 ```
 
 Correct way
