@@ -24,6 +24,13 @@ List of my Python modules
 	Available Versions : 
 
 	[Latest]
+
+	**v1.2.0 - pylist_nester**
+
+		Update log for v1.2.0
+			- Level is now a default argument with initial value 0
+
+	[Older Versions]
 						 
 	**v1.1.0 - pylist_nester**
 						 
@@ -31,8 +38,6 @@ List of my Python modules
 			- Renamed to **pylist_nester**
 			- Fixed import errors due to '-' in the module name
 			- Added code to indent lists present at a deeper level (makes output look more appealing)
-
-	[Older Versions]
 
 	**1.0.0 - hf-nester**
 
