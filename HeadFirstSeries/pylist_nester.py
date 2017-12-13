@@ -16,7 +16,7 @@ def print_lol(the_list, indent = False, level = 0):
         if isinstance(each_item, list):
             print_lol(each_item, indent, level+1)
         else:
-            #Adding indentations
-            for tab_stop in range(level):
-                print("\t", end='')
+            if indent:
+                for tab_stop in range(level):
+                    print("\t", end='')
             print(each_item)

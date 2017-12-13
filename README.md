@@ -25,12 +25,17 @@ List of my Python modules
 
 	[Latest]
 
+	**v1.3.1 - pylist_nester**
+
+		Update log for v1.3.1
+			- Fixed minor bug
+
+	[Older Versions]
+
 	**v1.3.0 - pylist_nester**
 
 		Update log for v1.3.0
 			- Indentations can now be turned on and off as per user's choice
-
-	[Older Versions]
 
 	**v1.2.0 - pylist_nester**
 

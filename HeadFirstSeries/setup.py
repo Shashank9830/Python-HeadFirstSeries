@@ -3,7 +3,7 @@ from distutils.core import setup
 setup (
     
         name            = 'pylist_nester',
-        version         = '1.3.0',
+        version         = '1.3.1',
         py_modules      = ['pylist_nester'],
         author          = 'shashank9830',
         author_email    = 'notrealemail@fakesite.com',
