@@ -39,7 +39,7 @@ List of my Python modules
 			- Fixed import errors due to '-' in the module name
 			- Added code to indent lists present at a deeper level (makes output look more appealing)
 
-	**1.0.0 - hf-nester**
+	**v1.0.0 - hf-nester**
 
 	A simple printer of nested lists
 
