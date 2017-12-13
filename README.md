@@ -59,8 +59,7 @@ To upgrade to a newer version
 ```
 sudo pip install pylist_nester --upgrade
 ```
-
-	**OR**
+**OR**
 
 Install **manually** after downloading zip or tar.gz
 
