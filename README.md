@@ -25,12 +25,17 @@ List of my Python modules
 
 	[Latest]
 
+	**v1.3.0 - pylist_nester**
+
+		Update log for v1.3.0
+			- Indentations can now be turned on and off as per user's choice
+
+	[Older Versions]
+
 	**v1.2.0 - pylist_nester**
 
 		Update log for v1.2.0
 			- Level is now a default argument with initial value 0
-
-	[Older Versions]
 						 
 	**v1.1.0 - pylist_nester**
 						 
@@ -41,23 +46,21 @@ List of my Python modules
 
 	**v1.0.0 - hf-nester**
 
-	A simple printer of nested lists
+			- A simple printer of nested lists
 
 ## Downloading and Installation
 
 Install using **PIP** (PIP Installs Packages)
-
 ```
 sudo pip install pylist_nester
 ```
 
 To upgrade to a newer version
-
 ```
 sudo pip install pylist_nester --upgrade
 ```
 
-**OR**
+	**OR**
 
 Install **manually** after downloading zip or tar.gz
 
@@ -67,7 +70,6 @@ cd package_name/
 ```
 
 Install the module in your copy of python
-
 ```
 sudo python setup.py install
 ```
@@ -91,7 +93,7 @@ For example :- pylist_nester
 import pylist_nester
 ```
 
-If you see the shell moves to next line without error then you have successfully installed the module.
+If you see the shell move to next line without error then you have successfully installed the module.
 
 ## Namespaces
 
