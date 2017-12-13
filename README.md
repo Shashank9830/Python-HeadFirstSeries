@@ -45,7 +45,7 @@ List of my Python modules
 
 ## Downloading and Installation
 
-Install using **pip** (Python Installer Package)
+Install using **PIP** (PIP Installs Packages)
 
 ```
 sudo pip install pylist_nester
