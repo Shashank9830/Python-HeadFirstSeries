@@ -1,7 +1,8 @@
 """This is the "pylist_nester.py" module, and it provides one function called
     print_lol() which prints lists that may or may not include nested lists."""
 
-def print_lol(the_list, level):
+#Make level a default argument with init value 0
+def print_lol(the_list, level = 0):
 
     """This function takes a positional argument called "the_list", which is any
         Python list (of - possibly - nested lists). Each data item in the provided list
