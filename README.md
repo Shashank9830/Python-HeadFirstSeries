@@ -25,12 +25,17 @@ List of my Python modules
 
 	[Latest]
 
+	**v2.0.0 - pylist_nester**
+
+		Update log for v2.0.0
+			- Data can now be saved to file with the use of an optional argument
+
+	[Older Versions]
+
 	**v1.3.1 - pylist_nester**
 
 		Update log for v1.3.1
 			- Fixed minor bug
-
-	[Older Versions]
 
 	**v1.3.0 - pylist_nester**
 
